@@ -1,0 +1,65 @@
+#content{
+	width: 888px;
+    background-color:bisque;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: auto;
+    border-radius: 30px;
+}
+
+body{
+    background-color: forestgreen;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#imageright{
+    margin-left: 20px;
+    float: right;
+    border-radius: 10px;
+    border-color: forestgreen;
+    border-width: 2.5px;
+    border-style: solid;
+}
+
+img{
+    width: 15em;
+    border-radius: 10px;
+}
+
+#imageleft{
+	margin-right: 40px;
+    margin-bottom: 80px;
+    float: left;
+    border-radius: 15px;
+    border-color: forestgreen;
+    border-width: 2.5px;
+    border-style: solid;
+}
+.kepszoveg{
+	text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+
+h1,h2{
+    color: forestgreen;
+    text-transform: uppercase;
+}
+
+p,li{
+    text-align: justify;
+}
+
+li{
+    margin-bottom: 5px;
+}
+
+a:hover{
+    color: red;
+}
+
+a:visited{
+    color: blue;
+}
