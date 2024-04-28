@@ -1,0 +1,59 @@
+body{
+    background-image: url(back.jpg);
+}
+
+body div{
+    width: 1000px;
+    margin: auto;
+}
+
+.header{
+    padding: 20px;
+    min-width: 650px;
+    max-width: 1000px;
+    background-image: url(panorama.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 220px;
+}
+
+#cimer{
+    width: 200px;
+    float: right;
+}
+
+#cimer img{
+    width: 150px;
+}
+#bal{
+float: left;
+width: 450px;
+background-color: #B0D1F1;
+padding: 20px;
+}
+#jobb{
+float: right;
+width: 450px;
+background-color: #B0D1F1;
+padding: 20px;
+}
+
+table{
+    background: #B0D1F1;
+    border-collapse: collapse;
+}
+
+table,td{
+    border: 1px solid black;
+}
+
+td{
+    padding: 5px;
+    width: 50%;
+}
+
+#tablazatcim{
+    font-weight: bold;
+    text-align: center;
+}
